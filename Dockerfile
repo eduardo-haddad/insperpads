@@ -22,13 +22,12 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && \
 # Flask configuration file
 ENV APP_CONFIG_FILE=/app/config/env.py
 
-
 # Miniconda
 WORKDIR /tmp
 RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh && \
     bash miniconda.sh -b -p $HOME/miniconda && \
     $HOME/miniconda/bin/conda init bash && \
-    export CONDA_PIP=$HOME/miniconda/bin/pip
+    rm -f miniconda.sh
 WORKDIR /app
 
 # Python version 3.7.4
