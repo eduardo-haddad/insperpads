@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eudora-vision",
+  "private_key_id": "1a7d26865c6e3eeff267b7486415e41f0b0066bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwz7q6FKZiyjR8\n0aVdi7RMKwPiWrRHY4mbq6RLnR6wB9Z6S5pg7ihPN/RlF2udVde9WpxLxTt/hV+C\nyRfzXG4FKI/447rTBaENbjFbrE5nQKPG/XunAo/nct7N0w1EhPjVotkicXmgjvyh\nfQ9tfjZfpY+cwnx8ewTd1Q+qm8r3ocu7sLEuL0rpUyHcqNbQ0UjxzTzSjKhN1mWJ\naWTDvcqJMx5FWAuz+TYaLgjfreWv2FQ+OiRX2Hg7DFUteaNYVaURwnsa4ty+MSI0\nryvvQVfadI1F8TtF4gHpR8Ys/+4MBC7Q3dQVeCgBDyc7rZA27Iu0N+cBqsBjjPIm\nK0kPeRcDAgMBAAECggEATNOOOsGzRHTBFsVPedS03G3Ka8Xm1KgzCFGt+28DgRB+\nyLfmFh0VpcpV5sEk8QH2UqA3DpNeVXwh8qWnQwbUBWjJGif1qzCkeL37M26syJ+l\nKldFLd3monZeyodcmfu/VbDDcXxmEXZf3lmFZRm0zZ2WR9KYHcykYjFsc8DrEeri\nHuLWrpGuuI917Kcn2Fqcsbz4M9wDgmSCp7gx3uzKyDM3BSGsAW/ILMpd5A/8sFiV\n0SXuogPfBYNBXdvJVHsffHNmB+2wqRF9DEWQaMTRPzJVC03Fx8YA2BBiYI085TxB\nrHrG382QQ/1QZZuYYzR4enpwu33hcPNFSw1xK6M0hQKBgQDdZxpsuc9j3EPgfeQp\nkEyiTWrWsiB+vkRUCy8ZQ0wvcM+bHmZpYbJckPPG5zXuH4yO75n4KKQGiCYbFII0\nK8mBEEApefdmby9xo+i1cvQFqrM5OR2Ve4/0D1dHRPlbEvd69QqyW5d5Y92Pf7DQ\nDzxfYxOU6clarSYRdESjdrsKnwKBgQDMcNDHAHXhUoEzu0X27tK38ckhlb4rSs6Q\nspl7vF1BYqwKZIE5OEjScBm7EJN4I2UNozRhrLHEXuZmGhbB/aOClm+u2ucGXCYA\n1Eid1MqxkH6UtDqO8ldDPvzt4wkHYN9LqfsY9vku8H9kXe5NzkIbxqvxxsSyoHlC\ngsKuTp89HQKBgQDargqIl2KDVLzqUA37C57VtDexhVDZPt7IUB+eCT2Hoho8MWOf\n9LIyAa32qMo4v4qaZ4ghdyrDlNhmaPRNyW4G/2EQVnqI/4rR6L5h8f+aVUceXw6c\nZeYCfuCK8VKFpQ8xsDR3hEXxzTS6lrmyV0ofQQHHVL7fxCPUm41sE0qdKwKBgAum\ntk9RGGbCA/kFyEP9cmbnUbYnSZJADiuy8gpaPtpWHEXvWmn/ai8MEntVw4HKSp0P\nWxHh/LObUPgqrndZ1DLCDhViBl6Xa9cKQiU0lmSuPniNGPVCnHSJp3KLSN1xyOgQ\nBO50TNk+/ZOjwswOYDgjB3OdB2LCwIZo212Bv5OFAoGAD+KQQrMIQohWo4Fzm4nL\nNAnZwVELO6yuBxITgWTLUIlXQM5Y6qXIBTPa/ush7KPZ9kV/8Oli002JQ/ZIph3a\n0oXzcYN6zcb/q3UlrTg6yuNYs1t7EdW5sKiqpTFbXRkgMViEGNkvwbu2r9v9Al08\nddHcb8kjzTfzgESBn9Ah6h8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "eudora-vision@eudora-vision.iam.gserviceaccount.com",
+  "client_id": "101880944368473636055",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eudora-vision%40eudora-vision.iam.gserviceaccount.com"
+}

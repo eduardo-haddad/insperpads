@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  insperpads:
+    container_name: insperpads
+    build: .
+    image: insperpads/imagerec:latest
+    restart: always
+    ports:
+      - "8080:80"
+    volumes:
+      - ./app:/app
